@@ -1,7 +1,10 @@
 export const perguntas = [
-    {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
-        alternativas: [
+    {Os robôs agora controlam todos os aspectos da economia global.”
+        enunciado: "Os robôs que dominam o mundo atualmente têm a capacidade de tomar decisões autônomas sobre políticas e leis sem a intervenção humana?”
+        alternativas: [Verdadeiro
+            Falso
+            Somente a economia digital
+            Apenas o comércio internacional
             {
                 texto: "Isso é assustador!",
                 afirmacao: [
